@@ -1,6 +1,0 @@
-streamlit
-ultralytics
-opencv-python
-pyttsx3
-numpy
-libgl1
