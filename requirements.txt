@@ -1,5 +1,6 @@
-
-streamlit
-opencv-python-headless
-pyttsx3
-numpy
+streamlit                                               
+cv2                                                              
+from ultralytics import YOLO                                            
+pyttsx3                                                          
+numpy                                                    
+threading 
