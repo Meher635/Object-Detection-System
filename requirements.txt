@@ -1,9 +1,0 @@
-
-streamlit 
-open-cv2
-ultralytics 
-pyttsx3
-numpy
-threading
-time
-datetime
