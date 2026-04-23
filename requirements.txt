@@ -1,6 +1,0 @@
-streamlit                                               
-cv2                                                              
-from ultralytics import YOLO                                            
-pyttsx3                                                          
-numpy                                                    
-threading 
