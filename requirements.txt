@@ -1,7 +1,5 @@
 
 streamlit
-opencv-python
-ultralytics
+opencv-python-headless
 pyttsx3
 numpy
-libgl1
